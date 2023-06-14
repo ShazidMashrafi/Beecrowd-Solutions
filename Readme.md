@@ -82,6 +82,6 @@ Feel free to check these codes out.
 ## 🚀 About Me
 </div>
 
-I am Computer Scienece and Engineering student, working my way on the programming world.  
+I am Computer Science and Engineering student, working my way on the programming world.  
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Beecrowd account ](https://www.beecrowd.com.br/judge/en/profile/790252).  
 Want to know more about me? Visit [My website](https://shazidmashrafi.com).  
