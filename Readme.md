@@ -1,8 +1,5 @@
-<div align="center">
-
 # !!UNFINISHED README!!
 # Beecrowd Solutions 
-</div>
 
 This repository contains my source codes of Beecrowd problems. They are in C language.  
 Feel free to check these codes out.
@@ -78,9 +75,9 @@ Feel free to check these codes out.
 
 
 <br> 
+</div>
 
 ## 🚀 About Me
-</div>
 
 I am Computer Science and Engineering student, working my way on the programming world.  
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Beecrowd account ](https://www.beecrowd.com.br/judge/en/profile/790252).  
