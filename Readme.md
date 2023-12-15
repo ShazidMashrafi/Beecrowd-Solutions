@@ -77,6 +77,6 @@ This repository contains my solutions of Beecrowd problems. They are in C langua
 
 ## 🚀 About Me
 
-I am Shazid. I am currently studying Computer Science and Engineering. 
-I am trying to work my way up in the programming world.    
+I am Shazid Mashrafi.  
+I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.  
 Visit my [Website](https://shazidmashrafi.com) and [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/790252) account.
